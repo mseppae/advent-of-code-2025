@@ -12,4 +12,7 @@ func main() {
 	slog.Info("----------------")
 	slog.Info("Day two: count invalid passwords")
 	aoc.DayTwo()
+	slog.Info("----------------")
+	slog.Info("Day three: count joltage amounts")
+	aoc.DayThree()
 }
